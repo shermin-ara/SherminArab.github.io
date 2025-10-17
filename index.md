@@ -1,266 +1,119 @@
 ---
 layout: default
-title: Shermin Arab 
+title: "Shermin Arab"
 ---
+
 <div class="header">
-    <div class="profile-section">
-        <img src="images/profile.jpg" alt="Shermin Arab" class="profile-image">
-        <div class="profile-info">
-            <h1>Shermin Arab</h1>
-            <div class="profile-summary">
-                <p>I work across the entire hardware stack: from materials growth and engineering, to device design and fabrication, to full system architecture. My focus is on driving technologies that generate, manipulate, and detect light, and on delivering end-to-end solutions that bring innovations into real-world consumer products.</p>
-                
-                <p></p>
-            </div>
-        </div>
+  <div class="profile-section">
+    <img src="images/profile.jpg" alt="Shermin Arab" class="profile-image">
+    <div class="profile-info">
+      <h1>Shermin Arab</h1>
+      <div class="profile-summary">
+        <p>I work across the entire hardware stack — from materials growth and engineering to device design, fabrication, and full system architecture. My focus is on driving technologies that generate, manipulate, and detect light, and delivering end‑to‑end solutions that bring innovations into real‑world consumer products.</p>
+      </div>
     </div>
-    
-    <div class="contact-info">
-        <a href="mailto:shermin.arab@gmail.com" class="contact-item">
-            <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-            </svg>
-            shermin.arab@gmail.com
-        </a>
-        <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" class="contact-item" target="_blank">
-            <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M5.242 13.769L0.5 9.5 12 1l11.5 8.5-4.742 4.269C17.548 14.359 14.899 14.5 12 14.5c-2.899 0-5.548-.141-6.758-.731z"/>
-                <path d="M12 14.5c-2.899 0-5.548-.141-6.758-.731L0.5 18.5 12 23l11.5-4.5-4.742-4.731C17.548 14.359 14.899 14.5 12 14.5z"/>
-            </svg>
-            Google Scholar
-        </a>
-        <a href="https://www.linkedin.com/in/shermin-arab-phd-03392412/" class="contact-item" target="_blank">
-            <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-            </svg>
-            LinkedIn
-        </a>
-        <a href="https://github.com/shermin-ara" class="contact-item" target="_blank">
-            <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
-            </svg>
-            GitHub
-        </a>
+  </div>
 
-    </div>
+  <div class="contact-info">
+    <a href="mailto:shermin.arab@gmail.com" class="contact-item">
+      📧 shermin.arab@gmail.com
+    </a>
+    <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" class="contact-item" target="_blank">
+      🎓 Google Scholar
+    </a>
+    <a href="https://www.linkedin.com/in/shermin-arab-phd-03392412/" class="contact-item" target="_blank">
+      💼 LinkedIn
+    </a>
+    <a href="https://github.com/shermin-ara" class="contact-item" target="_blank">
+      🧑‍💻 GitHub
+    </a>
+  </div>
 </div>
 
-<div class="content-section">
-    <h2>Research Interests</h2>
-    
-    <p style="margin-bottom: 30px;"> My research interests span the full hardware stack, from light generation and sources , to advanced sensors and detection platforms, integrated photonics and system architectures, and the novel materials that enable these technologies.</p>
-    
-    <div class="research-tabs">
-        <div class="tabs-header">
-            <button class="tab-button" onclick="showTab('lightgeneration')"> Light Generation & Displays </button>
-            <button class="tab-button" onclick="showTab('sensing-imaging')"> Sensing & Imaging</button>
-            <button class="tab-button" onclick="showTab('photonics')"> Integrated Photonics & Systems </button>
-            <button class="tab-button" onclick="showTab('materials')"> Materials & Device Engineering </button>
-        </div>
-        
-        <div id="lightgeneration" class="tab-content">
-            <div style="margin: 40px 0;">
-                <h3>Light Generation & Displays</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">Research focuses on the development, testing, and integration of high-performance light sources for photonics and display applications.</p>
-                
-                <h4>Current Research Focus</h4>
-                <ul style="margin-bottom: 20px;">
-                    <li>Selective-area MOCVD growth of III–V materials for localized epitaxy and heterogeneous integration</li>
-                    <li>1D and 2D GaAs and InP nanostructures targeting high-efficiency, high-speed light emission</li>
-                    <li>High-efficiency, high-speed III–V light sources engineered through carrier lifetime and defect density control </li>
-                    <li>GaN µLEDs for ultra-compact, high-efficiency near-eye and AR display applications</li>
-                    <li>Hybrid III–V µLED arrays integrated on CMOS backplanes for compact, high-density photonic systems and next-generation display technologies</li>
-                    <li>Automated optical and electrical test platforms for wafer-level and device-level characterization of µLED and laser arrays</li>
-                    <li>Laser-to-photonic IC integration including advanced bonding, post-bonding evaluation, and performance optimization</li>
-                    <li><strong>Off-axis metasurface combiner holographic display prototypes, in collaboration with Stanford University</li>
-    
-                </ul>
-                
-                <a href="lightgeneration.html" class="explore-button">Explore Research</a>
-            </div>
-        </div>
-        
-        <div id="photonics" class="tab-content">
-            <div style="margin: 40px 0;">
-                <h3>Integrated Photonics & Systems</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My photonics research began during my postdoctoral work at the University of Pennsylvania, focusing on the development of mid-infrared photonic platforms operating in the 3–4 µm wavelength range. This work spanned design, simulation, fabrication, and testing of multiple device tape-outs. The research emphasized high-performance, scalable photonic architectures for applications in sensing and spectroscopy. </p>
-                
-                <h4>Research Contributions</h4>
-                <ul style="margin-bottom: 20px;">
-                    <li>Process development and fab transfer for scalable photonic line fabrication</li>
-                    <li>Integration and packaging of light sources and electronic ICs with photonic ICs for hybrid system architectures</li>
-                    <li>Optical switches using novel materials (e.g. barium titanate, BTO) for high-speed modulation and low-power operation</li>
-                    <li>Photonic IC layout design for active and passive photonic components, including modulators, detectors, and couplers</li>
-                    <li><strong>Photonic IC tape-outs across research and commercial fabs</li>
-                    
-                </ul>
-                
-                <a href="photonics.html" class="explore-button">Explore Research</a>
-            </div>
-        </div>
-        
-        <div id="sensing-imaging" class="tab-content">
-            <div style="margin: 40px 0;">
-                <h3>Sensing & Imaging</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on the development, integration, and characterization of advanced sensing and imaging technologies for next-generation devices. This includes work on eye-tracking sensors for near-eye and AR/VR applications, biosensors for physiological and environmental monitoring, and beyond-RGB imaging systems leveraging multispectral and hyperspectral detection.</p>
-                
-                <h4>Key Methodologies</h4>
-                <ul style="margin-bottom: 20px;">
-                    <li>Photonics-based biosensors leveraging silicon photonics for high-sensitivity detection</li>
-                    <li>Non-invasive biomarker sensing using advanced spectroscopic techniques</li>
-                    <li>Glint-based eye-tracking methodologies for near-eye and AR/VR devices</li>
-                    <li><strong>Multispectral and hyperspectral imagers for next-generation imaging applications</li>
-                    <li><strong>Sensor-to-CMOS integration and automated characterization enabling compact, high-performance systems</li>
-                </ul>
-                
-                <a href="sensing-imaging.html" class="explore-button">Explore Research</a>
-            </div>
-        </div>
-    </div>
-</div>
+---
 
-<div class="content-section">
-    <h2>Publications</h2>
-    <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
-    
-    <div class="publication-item">
-        <strong>Tandem solar cells using GaAs nanowires on Si: design, fabrication, and observation of voltage addition</strong><br>
-        <em>Nano letters, 2015</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Doping concentration dependence of the photoluminescence spectra of n-type GaAs nanowires</strong><br>
-        <em>Applied Physics Letters, 2016</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Correlation of Ti3+ states with photocatalytic enhancement in TiO2-passivated p-GaAs</strong><br>
-        <em>Journal of Catalysis, 2016</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Active learning performance in labeling radiology images is 90% Effective</strong><br>
-        <em>Frontiers in Radiology, 2021</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Clinical validation demonstrating dramatic reduction in radiologist annotation burden while maintaining diagnostic accuracy.</p>
-    </div>
-    
-    <div class="publication-item">
-        <strong>Effects of Surface Passivation on Twin-Free GaAs Nanosheets</strong><br>
-        <em>ACS Nano, 2015</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">.</p>
-    </div>
-</div>
+## Research Interests
 
-<div class="content-section">
-    <h2>Education</h2>
-    
-    <div class="timeline-item">
-        <div class="timeline-date">2015</div>
-        <div class="timeline-title">Ph.D. in Electrical Engineering</div>
-        <div class="timeline-company">University of Southern California, CA</div>
-    </div>
+My research spans the full hardware stack — from light generation and sources to advanced sensors and detection platforms, integrated photonics, and novel materials that enable these technologies.
 
-    <div class="timeline-item">
-        <div class="timeline-date">2011</div>
-        <div class="timeline-title">M.S. in Materials Science and Engineering</div>
-        <div class="timeline-company">UC Riverside, CA</div>
-    </div>
-    
-    <div class="timeline-item">
-        <div class="timeline-date">2009</div>
-        <div class="timeline-title">M.S. in Electrical Engineering</div>
-        <div class="timeline-company"> UC Riverside, CA</div>
-    </div>
+### Light Generation & Displays
+- Selective-area MOCVD growth of III–V materials for localized epitaxy and heterogeneous integration
+- 1D and 2D GaAs and InP nanostructures targeting high-efficiency, high-speed light emission
+- High‑efficiency III–V light sources via carrier lifetime and defect control
+- GaN µLEDs for ultra‑compact, near‑eye display applications
+- Hybrid III–V µLED arrays on CMOS backplanes
+- Automated optical/electrical test platforms for wafer‑level and device‑level µLED and laser characterization
+- Off‑axis metasurface combiner holographic displays (with Stanford University)
 
-    <div class="timeline-item">
-        <div class="timeline-date">2008</div>
-        <div class="timeline-title">B.S. in Computer Engineering</div>
-        <div class="timeline-company">University of Tehran, Tehran</div>
-    </div>
-</div>
+[Explore Research →](lightgeneration.html)
 
-<div class="content-section">
-    <h2>Professional Background</h2>
-    
-    <div class="timeline-item">
-        <div class="timeline-date">2025 – Present</div>
-        <div class="timeline-title">Senior Manger, Hardware Technology Lead</div>
-        <div class="timeline-company"> Samsung Electrocnics, CA</div>
-       
-        
-        <h4>Defined and Directed Projects:</h4>
-        <ul>
-            <li> Off-axis Metasurface Combiner Holographic Display for Near-eye Applications </li>
-            <li> Enhanced Far-Field Spectroscopy for Non-invasive Biomarker Detection Through skin</li>
-            <li> Metasurface-enabled Compact Multispectral/Hyperspectral Imaging for Precise Color Calibration</li>
-            <li> Metasurface-enabled Compact Multispectral/Hyperspectral Imaging for Precise Color Calibration</li>
-        </ul>
-        
-        <h4> Other Responsibilities:</h4>
-        <ul>
-            <li> Provide strategic technical guidance to Samsung Ventures and affiliated investment groups, driving evaluations and investments in heterogeneous integration, co-packaged optics (CPO), optical interconnects, photonic accelerators, TFLN platforms, and optical computing technologies. </li>
-        </ul>
-    </div>
-    
-    <div class="timeline-item">
-        <div class="timeline-date"> 2022 – 2025 </div>
-        <div class="timeline-title"> Senior Scientist</div>
-        <div class="timeline-company"> Reality Labs, Meta , CA</div>
-        <ul>
-            <li>Developed glass interposer platforms for heterogeneous integration of light source/detectors. </li>
-            <li>Developed of a novel transparent, non-conspicuous interconnects for near-eye systems. </li>
-            <li>Worked on photonics platforms for display and sensing applications. </li>
-            <li>In-field (in-FoV) eye-tracking sensor architectures for near-eye systems. </li>
-        </ul>
-    </div>
-    
-    <div class="timeline-item">
-        <div class="timeline-date"> 2020 – 2022</div>
-        <div class="timeline-title"> Scientist</div>
-        <div class="timeline-company"> Exploratory Design Group, Apple, CA </div>
-        <ul>
-            <li>Contributed to development and tape-out using a new Si photonics PDK.</li>
-            <li>Built and managed relationships with major fabs for Photonics IC fabrication and packaging globally.</li>
-            <li>Designed and implemented a new packaging methodology for photonics: III-V co-packaging, in collaboration with Asia-Pacific manufacturing partners.</li>
-            <li>Partnered with TSMC to validate new health sensing technologies and ensure manufacturability.</li>
-            <li>Led root-cause failure analysis for Si Photonics and III-V components using SEM, FIB, and PL.</li>
-        </ul>
-    </div>
-    
-    <div class="timeline-item">
-        <div class="timeline-date">2019 – 2020</div>
-        <div class="timeline-title">Photonics Research and Development Engineer</div>
-        <div class="timeline-company"> PsiQuantum, CA</div>
-        <ul>
-            <li>Introduced and validated novel BTO thin-films in CMOS-compatible Si photonics flows.</li>
-            <li> Executed wafer-to-wafer bonding for thin-film transfer, specifically for novel material integration (MBE BTO) onto photonics chips, critical for co-packaged optics.</li>
-            <li>Worked on the FMEA process for various Si Photonics tape-outs from major foundries, Tower and GLOBALFOUNDRIES. </li>
-        </ul>
-    </div>
-    <div class="timeline-item">
-        <div class="timeline-date">2017 – 2019</div>
-        <div class="timeline-title"> Sr. Staff Engineer/Manager </div>
-        <div class="timeline-company"> Mojo Vision, CA</div>
-        <ul>
-            <li>Worked on micro-displays, from design and fabrication to characterization and integration. </li>
-            <li>Built a class 1000 cleanroom and characterization lab from scratch.</li>
-            <li>Managed a metrology team with focus on characterization and packaging.</li>
-            <li>Set up full packaging processes for wafer to die and backend process (coring, grinding, dicing, die inspection, die-to-die/die-to-wafer bonding and quality assurance) for micro display.</li>
-        </ul>
-    </div>
+### Integrated Photonics & Systems
+- Developed mid‑IR photonic platforms (3–4 µm) during postdoctoral work at the University of Pennsylvania
+- Optical switches using novel materials (e.g., barium titanate)
+- Photonic IC layout design for active and passive photonic components
+- Photonic IC tape‑outs across research and commercial fabs
 
-    <div class="timeline-item">
-        <div class="timeline-date">2015 – 2017</div>
-        <div class="timeline-title"> Researcher </div>
-        <div class="timeline-company"> University of Pennsylvania (Penn), PA</div>
-        <ul>
-            <li>Designed a Process Design Kit (PDK) for mid IR range using finite difference time domain methods (FDTD) (Lumerical and COMSOL). </li>
-            <li>Tape-out with both IBM 7RF process and IME Photonics (Si photonics tapeout).</li>
-            <li>Designed and fabricated a mid IR passive optical component library at Penn cleanroom facility, fully Si based and CMOS foundry compatible.</li>
-            <li>Built a measurement setup with free space to fiber, fiber to free space light measurements for 3.4um optical components and tunable 3.39um light source (using a 1064nm and 1550nm lasers).</li>
-        </ul>
-    </div>
-</div>
+[Explore Research →](photonics.html)
+
+### Sensing & Imaging
+- Photonics‑based biosensors leveraging silicon photonics
+- Non‑invasive biomarker sensing via spectroscopy
+- Glint‑based eye‑tracking for AR/VR systems
+- Multispectral and hyperspectral imagers for advanced color calibration
+
+[Explore Research →](sensing-imaging.html)
+
+---
+
+## Publications
+
+For a complete list, visit [Google Scholar](https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en).
+
+- **Tandem solar cells using GaAs nanowires on Si** — *Nano Letters, 2015*
+- **Doping concentration dependence of the photoluminescence spectra of n‑type GaAs nanowires** — *Applied Physics Letters, 2016*
+- **Correlation of Ti3+ states with photocatalytic enhancement in TiO2‑passivated p‑GaAs** — *Journal of Catalysis, 2016*
+- **Active learning performance in labeling radiology images is 90% effective** — *Frontiers in Radiology, 2021*
+- **Effects of Surface Passivation on Twin‑Free GaAs Nanosheets** — *ACS Nano, 2015*
+
+---
+
+## Education
+
+- **Ph.D. in Electrical Engineering**, University of Southern California (2015)
+- **M.S. in Materials Science and Engineering**, UC Riverside (2011)
+- **M.S. in Electrical Engineering**, UC Riverside (2009)
+- **B.S. in Computer Engineering**, University of Tehran (2008)
+
+---
+
+## Professional Background
+
+### Samsung Electronics (2025–Present)
+**Senior Manager, Hardware Technology Lead**  
+- Directed projects on metasurface holographic displays, far‑field spectroscopy, and hyperspectral imaging  
+- Guided investments in heterogeneous integration, optical computing, and photonic accelerators
+
+### Meta – Reality Labs (2022–2025)
+**Senior Scientist**  
+- Developed glass interposer platforms and transparent interconnects for near‑eye systems  
+- Led research in photonics platforms for display and sensing applications
+
+### Apple – Exploratory Design Group (2020–2022)
+**Scientist**  
+- Partnered with TSMC on health sensing and manufacturability  
+- Developed new packaging methodologies for III‑V photonics co‑integration
+
+### PsiQuantum (2019–2020)
+**Photonics R&D Engineer**  
+- Introduced BTO thin films in CMOS‑compatible Si photonics flows  
+- Executed wafer‑to‑wafer bonding for thin‑film transfer in co‑packaged optics
+
+### Mojo Vision (2017–2019)
+**Sr. Staff Engineer / Manager**  
+- Built a class‑1000 cleanroom and metrology lab from scratch  
+- Developed full packaging processes for microdisplay systems
+
+### University of Pennsylvania (2015–2017)
+**Researcher**  
+- Designed mid‑IR photonic libraries and PDKs  
+- Conducted Si photonics tape‑outs and measurement setups for 3.4 µm optical components
