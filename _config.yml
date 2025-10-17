@@ -1,0 +1,17 @@
+title: Shermin Arab
+description: Senior Manager - Portfolio
+baseurl: ""
+url: "https://sherminarab.github.io"
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - assets/main.scss
