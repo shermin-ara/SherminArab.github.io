@@ -135,12 +135,6 @@ title: Shermin Arab
     </div>
     
     <div class="publication-item">
-        <strong>Active learning performance in labeling radiology images is 90% Effective</strong><br>
-        <em>Frontiers in Radiology, 2021</em><br>
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">Clinical validation demonstrating dramatic reduction in radiologist annotation burden while maintaining diagnostic accuracy.</p>
-    </div>
-    
-    <div class="publication-item">
         <strong>Effects of Surface Passivation on Twin-Free GaAs Nanosheets</strong><br>
         <em>ACS Nano, 2015</em>
     </div>
