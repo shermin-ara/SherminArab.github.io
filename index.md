@@ -59,7 +59,7 @@ title: Shermin Arab
         <div id="lightgeneration" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Light Generation & Displays</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">Research focuses on the development, testing, and integration of high-performance light sources for photonics and display applications.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 15px;">Research focuses on the development, testing, and integration of high-performance light sources for photonics and display applications.</p>
                 
                 <h4>Current Research Focus</h4>
                 <ul style="margin-bottom: 20px;">
