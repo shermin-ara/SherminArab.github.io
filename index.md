@@ -46,11 +46,11 @@ title: Shermin Arab
 <div class="content-section">
     <h2>Research Interests</h2>
     
-    <p style="margin-bottom: 30px;">My research interests span the full hardware stack, from light generation and sources, to advanced sensors and detection platforms, integrated photonics and system architectures, and the novel materials that enable these technologies.</p>
+    <p style="margin-bottom: 30px;">My research interests span the full hardware stack, from light generation and displays, to advanced sensors and detection platforms, integrated photonics and system architecture, and the novel materials that enable these technologies.</p>
     
     <div class="research-tabs">
         <div class="tabs-header">
-            <button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Displays</button>
+            <button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Display</button>
             <button class="tab-button" onclick="showTab('sensing-imaging')">Sensing & Imaging</button>
             <button class="tab-button" onclick="showTab('photonics')">Integrated Photonics & Systems</button>
             <button class="tab-button" onclick="showTab('materials')">Materials & Device Engineering</button>
@@ -59,18 +59,19 @@ title: Shermin Arab
         <div id="lightgeneration" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Light Generation & Displays</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 15px;">Research focuses on the development, testing, and integration of high-performance light sources for photonics and display applications.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 15px;"> My work focuses on the development, testing, and integration of high-performance light sources for photonics and display applications.</p>
                 
-                <h4>Current Research Focus</h4>
+                <h4>Highlighted Work and Focus Areas</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Selective-area MOCVD growth of III–V materials for localized epitaxy and heterogeneous integration</li>
-                    <li>1D and 2D GaAs and InP nanostructures targeting high-efficiency, high-speed light emission</li>
-                    <li>High-efficiency, high-speed III–V light sources engineered through carrier lifetime and defect density control</li>
-                    <li>GaN µLEDs for ultra-compact, high-efficiency near-eye and AR display applications</li>
-                    <li>Hybrid III–V µLED arrays integrated on CMOS backplanes for compact, high-density photonic systems and next-generation display technologies</li>
-                    <li>Automated optical and electrical test platforms for wafer-level and device-level characterization of µLED and laser arrays</li>
-                    <li>Laser-to-photonic IC integration including advanced bonding, post-bonding evaluation, and performance optimization</li>
-                    <li><strong>Off-axis metasurface combiner holographic display prototypes, in collaboration with Stanford University</strong></li>
+                    <li>Fabricated of MOCVD-grown GaAs/InP nanowire devices, including Hall structures, overcoming challenges in making ohmic contacts for reliable opto-electrical characterization.</li>
+                    <li>Established cryogenic methodologies for accurate doping characterization of GaAs nanostructures, using cryogenic PL/Photocurrent spectroscopy generating doping maps correlating doping levels with optical peak.</li>
+                    <li>Improved optical emission in GaAs nanostructures by reducing surface recombination and enhancing carrier lifetimes via novel passivation methodologies.</li>
+                    <li>Developed GaN µLEDs for ultra-compact, high-efficiency near-eye and AR display applications.</li>
+                    <li>Developed Hybrid III–V µLED arrays- CMOS backplanes for compact, high-density photonic systems and next-generation display technologies.</li>
+                    <li> Engineered Fabry-Perot optical cavities along GaAs nanowires, enhancing local field effects and optical response by 6×, laying the foundation for nanolaser development. </li>
+                    <li>Architected semi-automated probe station with fiber coupling,as optical and electrical test platforms for wafer-level and device-level characterization of µLED and laser arrays.</li>
+                    <li>Develped packaging processes for laser-to-photonic IC integration including advanced bonding, post-bonding evaluation, and performance optimization.</li>
+                    <li><strong>Off-axis metasurface combiner holographic display prototypes, in collaboration with Stanford University.</strong></li>
                 </ul>
                 
                 <a href="lightgeneration.html" class="explore-button">Explore Research</a>
@@ -79,16 +80,17 @@ title: Shermin Arab
         
         <div id="photonics" class="tab-content">
             <div style="margin: 40px 0;">
-                <h3>Integrated Photonics & Systems</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My photonics research began during my postdoctoral work at the University of Pennsylvania, focusing on the development of mid-infrared photonic platforms operating in the 3–4 µm wavelength range. This work spanned design, simulation, fabrication, and testing of multiple device tape-outs. The research emphasized high-performance, scalable photonic architectures for applications in sensing and spectroscopy.</p>
+                <h3>Integrated Photonics & Optical Systems</h3>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My photonics research began during my postdoctoral work at the University of Pennsylvania, focusing on the development of mid-infrared photonic platforms operating in the 3.4 µm wavelength range. This work spanned design, simulation, fabrication, and testing of multiple device tape-outs. The research emphasized high-performance, scalable photonic architectures for applications in sensing and spectroscopy.</p>
                 
-                <h4>Research Contributions</h4>
+                <h4>Highlighted Work and Focus Areas</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Process development and fab transfer for scalable photonic line fabrication</li>
-                    <li>Integration and packaging of light sources and electronic ICs with photonic ICs for hybrid system architectures</li>
-                    <li>Optical switches using novel materials (e.g. barium titanate, BTO) for high-speed modulation and low-power operation</li>
-                    <li>Photonic IC layout design for active and passive photonic components, including modulators, detectors, and couplers</li>
-                    <li><strong>Photonic IC tape-outs across research and commercial fabs</strong></li>
+                    <li>Developed a Process Design Kit (PDK) for mid-IR photonics using FDTD simulations (Lumerical, COMSOL), enabling CMOS-compatible Si photonics design.</li>
+                    <li>Built mid-IR measurement setups and performed optical characterization using tunable 3.4um sources (using a 1064nm/1550nm lasers and PPLN) with free-space and fiber coupling, enabling accurate evaluation of optical components. </li>
+                    <li>Developed design, fabrication and integration processes for BTO (barium titanate) thin films in CMOS-compatible chip, enabling co-packaged optical modulators and switch.</li>
+                    <li>Co-developed Si photonics PDK with TSMC, contributing to tape-out and enabling scalable, manufacturable designs for advanced sensing technologies.</li>
+                    <li>Executed tape-outs with IBM 7RF, IME Photonics, GlobalFoundries 90WG/45SPCLO processes, performing LVS/DRC verification, design validation, testing, and failure analysis for mid-IR components.</li>
+                    <li>Performed quality validation of 8" MBE BTO wafers, including fab acceptance testing and preparation for wafer-to-wafer bonding and film transfer.</li>
                 </ul>
                 
                 <a href="photonics.html" class="explore-button">Explore Research</a>
@@ -98,14 +100,14 @@ title: Shermin Arab
         <div id="sensing-imaging" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Sensing & Imaging</h3>
-                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My research focuses on the development, integration, and characterization of advanced sensing and imaging technologies for next-generation devices. This includes work on eye-tracking sensors for near-eye and AR/VR applications, biosensors for physiological and environmental monitoring, and beyond-RGB imaging systems leveraging multispectral and hyperspectral detection.</p>
+                <p style="font-size: 1em; color: #666; margin-bottom: 20px;">My work focuses on the development, integration, and characterization of advanced sensing and imaging technologies for next-generation devices. This includes work on eye-tracking sensors for near-eye and AR/VR applications, biosensors, environmental monitoring, and beyond-RGB imaging systems leveraging multispectral and hyperspectral detection.</p>
                 
-                <h4>Key Methodologies</h4>
+                <h4>Highlighted Work and Focus Areas</h4>
                 <ul style="margin-bottom: 20px;">
-                    <li>Photonics-based biosensors leveraging silicon photonics for high-sensitivity detection</li>
-                    <li>Non-invasive biomarker sensing using advanced spectroscopic techniques</li>
-                    <li>Glint-based eye-tracking methodologies for near-eye and AR/VR devices</li>
-                    <li><strong>Multispectral and hyperspectral imagers for next-generation imaging applications</strong></li>
+                    <li>Photonics-based biosensors leveraging silicon photonics for high-sensitivity detection.</li>
+                    <li>Non-invasive biomarker sensing using advanced spectroscopic techniques.</li>
+                    <li>Glint-based eye-tracking methodologies for near-eye and AR/VR devices.</li>
+                    <li><strong>Multispectral and hyperspectral imagers for next-generation imaging applications and color correction.</strong></li>
                     <li><strong>Sensor-to-CMOS integration and automated characterization enabling compact, high-performance systems</strong></li>
                 </ul>
                 
@@ -116,8 +118,13 @@ title: Shermin Arab
 </div>
 
 <div class="content-section">
-    <h2>Publications</h2>
+    <h2>Selected Publications and Talks</h2>
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
+    
+    <div class="publication-item">
+        <strong>The Evolution and Future of XR Display Technologies</strong><br>
+        <em>Keynote Presentations, TechNExt 2025 Festival Immersive Hub, UK, 2025</em>
+    </div>
     
     <div class="publication-item">
         <strong>Tandem solar cells using GaAs nanowires on Si: design, fabrication, and observation of voltage addition</strong><br>
@@ -144,27 +151,27 @@ title: Shermin Arab
     <h2>Education</h2>
     
     <div class="timeline-item">
-        <div class="timeline-date">2015</div>
         <div class="timeline-title">Ph.D. in Electrical Engineering</div>
         <div class="timeline-company">University of Southern California, CA</div>
+        <div class="timeline-date">2015</div>
     </div>
 
     <div class="timeline-item">
-        <div class="timeline-date">2011</div>
         <div class="timeline-title">M.S. in Materials Science and Engineering</div>
         <div class="timeline-company">UC Riverside, CA</div>
+        <div class="timeline-date">2011</div>
     </div>
     
     <div class="timeline-item">
-        <div class="timeline-date">2009</div>
         <div class="timeline-title">M.S. in Electrical Engineering</div>
         <div class="timeline-company">UC Riverside, CA</div>
+        <div class="timeline-date">2009</div>
     </div>
 
     <div class="timeline-item">
-        <div class="timeline-date">2008</div>
         <div class="timeline-title">B.S. in Computer Engineering</div>
         <div class="timeline-company">University of Tehran, Tehran</div>
+        <div class="timeline-date">2008</div>
     </div>
 </div>
 
@@ -193,11 +200,18 @@ title: Shermin Arab
         <div class="timeline-date">2022 – 2025</div>
         <div class="timeline-title">Senior Scientist</div>
         <div class="timeline-company">Reality Labs, Meta, CA</div>
+        <h4>Defined and Directed Projects:</h4>
         <ul>
             <li>Developed glass interposer platforms for heterogeneous integration of light source/detectors.</li>
-            <li>Developed of a novel transparent, non-conspicuous interconnects for near-eye systems.</li>
-            <li>Worked on photonics platforms for display and sensing applications.</li>
-            <li>In-field (in-FoV) eye-tracking sensor architectures for near-eye systems.</li>
+            <li>Developed a novel transparent, non-conspicuous interconnects for near-eye systems.</li>
+            <li>Develpded a glint-based In-field (in-FoV) eye-tracking sensor architectures for near-eye systems.</li>
+        </ul>
+        <h4>Other Responsibilities:</h4>
+        <ul>
+            <li>Led (4) hardware programs covering glint-based eye tracking, transparent interconnects, photonics-on-glass, and Rx-electronics packaging, driving innovation in human input for Meta Orion and future AR platforms.</li>
+            <li>Built and directed cross-functional virtual teams of 30+ engineers across Meta and external partners (SWE, Optics, EE, ME), delivering scalable and manufacturable prototypes.</li>
+            <li>Scaled hardware programs by managing fabs and OEM partners, delivering fully integrated, manufacturable system packages ready for eye-piece integration. achieving manufacturing readiness for production-scale deployment (5,000 wafers/month) and alignment with EVT milestones.</li>
+            
         </ul>
     </div>
     
@@ -206,11 +220,10 @@ title: Shermin Arab
         <div class="timeline-title">Scientist</div>
         <div class="timeline-company">Exploratory Design Group, Apple, CA</div>
         <ul>
-            <li>Contributed to development and tape-out using a new Si photonics PDK.</li>
-            <li>Built and managed relationships with major fabs for Photonics IC fabrication and packaging globally.</li>
-            <li>Designed and implemented a new packaging methodology for photonics: III-V co-packaging, in collaboration with Asia-Pacific manufacturing partners.</li>
-            <li>Partnered with TSMC to validate new health sensing technologies and ensure manufacturability.</li>
-            <li>Led root-cause failure analysis for Si Photonics and III-V components using SEM, FIB, and PL.</li>
+            <li>Co-developed Si photonics PDK with TSMC, contributing to tape-out and enabling scalable, manufacturable designs for advanced sensing technologies.</li>
+            <li>Managed global fabs and OEM partners, ensuring IC fabrication capacity and supporting end-to-end technical qualification to de-risk supply chain.</li>
+            <li>Led root-cause failure analysis for Si Photonics and III-V components and developed non-destructive methods for rapid evaluation of PIC failures.</li>
+            <li>Drove a novel III-V laser -Si co-packaging methodology with Asia-Pacific partners to enable next-generation photonics biosensor modules.</li>
         </ul>
     </div>
     
@@ -219,9 +232,9 @@ title: Shermin Arab
         <div class="timeline-title">Photonics Research and Development Engineer</div>
         <div class="timeline-company">PsiQuantum, CA</div>
         <ul>
-            <li>Introduced and validated novel BTO thin-films in CMOS-compatible Si photonics flows.</li>
+            <li>Developed design, fabrication and integration processes for BTO thin films in CMOS-compatible chip, enabling co-packaged optical modulators and switch.</li>
             <li>Executed wafer-to-wafer bonding for thin-film transfer, specifically for novel material integration (MBE BTO) onto photonics chips, critical for co-packaged optics.</li>
-            <li>Worked on the FMEA process for various Si Photonics tape-outs from major foundries, Tower and GLOBALFOUNDRIES.</li>
+            <li>Led FMEA and root-cause analysis across optical switch tape-outs with multiple foundries (TowerJazz, GLOBALFOUNDRIES), optimizing process validation and reliability.</li>
         </ul>
     </div>
 
@@ -230,10 +243,10 @@ title: Shermin Arab
         <div class="timeline-title">Sr. Staff Engineer/Manager</div>
         <div class="timeline-company">Mojo Vision, CA</div>
         <ul>
-            <li>Worked on micro-displays, from design and fabrication to characterization and integration.</li>
-            <li>Built a class 1000 cleanroom and characterization lab from scratch.</li>
-            <li>Managed a metrology team with focus on characterization and packaging.</li>
-            <li>Set up full packaging processes for wafer to die and backend process (coring, grinding, dicing, die inspection, die-to-die/die-to-wafer bonding and quality assurance) for micro display.</li>
+            <li>Built a class 1000 cleanroom from scratch, building a core competency that accelerated development timelines.</li>
+            <li>Led micro-LED display development from design and fabrication through characterization and integration, advancing products from concept to prototype validation.</li>
+            <li>Built and managed a high-performing metrology team, specifying and implementing advanced measurement tools (QE, optical performance, efficacy) to set quality assurance standards.</li>
+            <li>Established full backend packaging processes (coring, grinding, dicing, bonding) for micro-displays, building a robust and reliable manufacturing pipeline.</li>
         </ul>
     </div>
 
@@ -242,10 +255,10 @@ title: Shermin Arab
         <div class="timeline-title">Researcher</div>
         <div class="timeline-company">University of Pennsylvania (Penn), PA</div>
         <ul>
-            <li>Designed a Process Design Kit (PDK) for mid IR range using finite difference time domain methods (FDTD) (Lumerical and COMSOL).</li>
-            <li>Tape-out with both IBM 7RF process and IME Photonics (Si photonics tapeout).</li>
-            <li>Designed and fabricated a mid IR passive optical component library at Penn cleanroom facility, fully Si based and CMOS foundry compatible.</li>
-            <li>Built a measurement setup with free space to fiber, fiber to free space light measurements for 3.4um optical components and tunable 3.39um light source (using a 1064nm and 1550nm lasers).</li>
+            <li>Developed a Process Design Kit (PDK) for mid-IR photonics using FDTD simulations (Lumerical, COMSOL), enabling CMOS-compatible Si photonics design.</li>
+            <li>Designed and fabricated a mid-IR passive optical component library in Penn’s cleanroom, SOI-based and compatible with CMOS foundries.</li>
+            <li>Built mid-IR measurement setups and performed optical characterization using tunable 3.4um sources (using a 1064nm/1550nm lasers and PPLN) with free-space and fiber coupling, enabling accurate evaluation of optical components.</li>
+            <li>Executed tape-outs with IBM 7RF, IME Photonics and GlobalFoundries 90WG processes, performing LVS/DRC verification, design validation, testing, and failure analysis for mid-IR components.</li>
         </ul>
     </div>
 </div>
