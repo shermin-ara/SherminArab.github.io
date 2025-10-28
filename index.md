@@ -124,6 +124,7 @@ title: Shermin Arab
     <div class="publication-item">
         <strong>The Evolution and Future of XR Display Technologies</strong><br>
         <em>Keynote Presentations, TechNExt 2025 Festival Immersive Hub, UK, 2025</em>
+        <p><a href=""images/TechNext-2025.pdf"" target="_blank">link</a></p>
     </div>
     
     <div class="publication-item">
