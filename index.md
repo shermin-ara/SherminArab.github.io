@@ -9,7 +9,7 @@ title: Shermin Arab
         <div class="profile-info">
             <h1>Shermin Arab</h1>
             <div class="profile-summary">
-                <p>I work across the entire hardware stack: from materials growth and engineering, to device design and fabrication, to full system architecture. My focus is on driving technologies that generate, manipulate, and detect light, and on delivering end-to-end solutions that bring innovations into real-world consumer products.</p>
+                <p>I work across the entire hardware stack: from materials growth and engineering, to device design and fabrication, to full system architecture. My focus is on developing hardware and materials that sense, perceive, and interact with the physical world, and on delivering end-to-end solutions that bring innovations into real-world consumer products.</p>
             </div>
         </div>
     </div>
@@ -53,7 +53,7 @@ title: Shermin Arab
             <button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Display</button>
             <button class="tab-button" onclick="showTab('sensing-imaging')">Sensing & Imaging</button>
             <button class="tab-button" onclick="showTab('photonics')">Integrated Photonics & Systems</button>
-            <button class="tab-button" onclick="showTab('materials')">Materials & Device Engineering</button>
+            <button class="tab-button" onclick="showTab('materials')">Perception and Human–Machine Sensing Interfaces</button>
         </div>
         
         <div id="lightgeneration" class="tab-content">
@@ -198,14 +198,15 @@ title: Shermin Arab
        
         <h4>Defined and Directed Projects:</h4>
         <ul>
-            <li>Off-axis Metasurface Combiner Holographic Display for Near-eye Applications</li>
-            <li>Enhanced Far-Field Spectroscopy for Non-invasive Biomarker Detection Through skin</li>
             <li>Metasurface-enabled Compact Multispectral/Hyperspectral Imaging for Precise Color Calibration</li>
+            <li>Development of advanced materials and optical architectures for high-resolution, optics-based tactile sensors</li>
+            <li>Off-axis Metasurface Combiner Holographic Display for Near-eye Applications</li>
+            
         </ul>
         
         <h4>Other Responsibilities:</h4>
         <ul>
-            <li>Provide strategic technical guidance to Samsung Ventures and affiliated investment groups, driving evaluations and investments in heterogeneous integration, co-packaged optics (CPO), optical interconnects, photonic accelerators, TFLN platforms, and optical computing technologies.</li>
+            <li>Provide strategic technical guidance to Samsung Ventures and affiliated investment groups, driving evaluations and investments in heterogeneous integration, co-packaged optics (CPO), optical interconnects, optical circuit switches, TFLN platforms, and optical computing technologies.</li>
         </ul>
     </div>
     
@@ -215,9 +216,10 @@ title: Shermin Arab
         <div class="timeline-company">Reality Labs, Meta, CA</div>
         <h4>Defined and Directed Projects:</h4>
         <ul>
-            <li>Developed glass interposer platforms for heterogeneous integration of light source/detectors.</li>
-            <li>Developed a novel transparent, non-conspicuous interconnects for near-eye systems.</li>
-            <li>Develpded a glint-based In-field (in-FoV) eye-tracking sensor architectures for near-eye systems.</li>
+            <li>Developed glass interposer platforms for integrated optical sources and detectors, enabling compact, high-resolution physical sensing.</li>
+            <li>Developed a novel transparent, non-conspicuous interconnects to support dense sensor arrays for capturing fine-grained physical and environmental signals.</li>
+            <li>Developed glint-based eye-tracking sensors enabling precise, real-time perception of dynamic interactions.</li>
+            
         </ul>
         <h4>Other Responsibilities:</h4>
         <ul>
