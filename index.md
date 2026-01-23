@@ -50,10 +50,11 @@ title: Shermin Arab
     
     <div class="research-tabs">
         <div class="tabs-header">
-            <button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Display</button>
+            <button class="tab-button" onclick="showTab('materials')">Perception and Human–Machine Sensing Interfaces
+            </button><button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Display</button>
             <button class="tab-button" onclick="showTab('sensing-imaging')">Sensing & Imaging</button>
             <button class="tab-button" onclick="showTab('photonics')">Integrated Photonics & Systems</button>
-            <button class="tab-button" onclick="showTab('materials')">Perception and Human–Machine Sensing Interfaces</button>
+            
         </div>
         
         <div id="lightgeneration" class="tab-content">
@@ -198,7 +199,8 @@ title: Shermin Arab
        
         <h4>Defined and Directed Projects:</h4>
         <ul>
-            <li>Metasurface-enabled Compact Multispectral/Hyperspectral Imaging for Precise Color Calibration</li>
+            <li>Implementation of a Compact Hyperspectral Imager for Mobile, Robotic, and Embedded Vision Systems</li>
+            <li>Design of a Foveated Imaging System for Real-Time Robotic Attention and Perception</li>
             <li>Development of advanced materials and optical architectures for high-resolution, optics-based tactile sensors</li>
             <li>Off-axis Metasurface Combiner Holographic Display for Near-eye Applications</li>
             
