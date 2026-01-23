@@ -56,7 +56,23 @@ title: Shermin Arab
             <button class="tab-button" onclick="showTab('photonics')">Integrated Photonics & Systems</button>
             
         </div>
-        
+
+        <div id="materials" class="tab-content">
+        <div style="margin: 40px 0;">
+            <h3>Perception and Human–Machine Sensing Interfaces</h3>
+            <p style="font-size: 1em; color: #666; margin-bottom: 15px;"> My work focuses on the design, implementation, and integration of beyond-RGB imaging and vision-based sensing systems, enabled by advanced optical materials and compact photonic architectures for robotic and embedded platforms.</p>
+            
+            <h4>Highlighted Work and Focus Areas</h4>
+            <ul style="margin-bottom: 20px;">
+                <li>Architected and deployed an end-to-end eye-tracking system for AR glasses, enabling gaze-based input, intent recognition, and predictive commanding for human–machine interfaces.</li>
+                <li>Designed and implemented a miniaturized hyperspectral imager with 20 spectral channels spanning the UV–NIR, enabling compact beyond-RGB spectral sensing for mobile and embedded platforms.</li>
+                <li>Proposed an Materials Research Society (MRS Spring 2027) symposium on flexible functional materials, optical coatings, and adaptive surfaces for next-generation perception and embodied intelligence.</li>
+                <li>Designed a foveated imaging system enabling wide field-of-view, high-resolution, and context-aware visual perception (provisional patent).</li>
+            </ul>
+            
+            <a href="materials.html" class="explore-button">Explore Research</a>
+        </div>
+    </div>
         <div id="lightgeneration" class="tab-content">
             <div style="margin: 40px 0;">
                 <h3>Light Generation & Displays</h3>
