@@ -199,10 +199,10 @@ title: Shermin Arab
        
         <h4>Defined and Directed Projects:</h4>
         <ul>
-            <li>Implementation of a Compact Hyperspectral Imager for Mobile, Robotic, and Embedded Vision Systems</li>
-            <li>Design of a Foveated Imaging System for Real-Time Robotic Attention and Perception</li>
-            <li>Development of advanced materials and optical architectures for high-resolution, optics-based tactile sensors</li>
-            <li>Off-axis Metasurface Combiner Holographic Display for Near-eye Applications</li>
+            <li>Implementation of a compact hyperspectral imager for mobile, robotic, and embedded vision systems</li>
+            <li>Design of a foveated imaging system for real-time robotic attention and perception</li>
+            <li>Development of optical architectures for high-resolution, optics-based tactile sensors</li>
+            <li>Off-axis metasurface combiner holographic display for near-eye applications</li>
             
         </ul>
         
