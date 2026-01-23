@@ -50,7 +50,7 @@ title: Shermin Arab
     
     <div class="research-tabs">
         <div class="tabs-header">
-            <button class="tab-button" onclick="showTab('materials')">Perception and Human–Machine Sensing Interfaces
+            <button class="tab-button" onclick="showTab('materials')">Perception & Human–Machine Sensing Interfaces
             </button><button class="tab-button" onclick="showTab('lightgeneration')">Light Generation & Display</button>
             <button class="tab-button" onclick="showTab('sensing-imaging')">Sensing & Imaging</button>
             <button class="tab-button" onclick="showTab('photonics')">Integrated Photonics & Systems</button>
@@ -59,7 +59,7 @@ title: Shermin Arab
 
         <div id="materials" class="tab-content">
         <div style="margin: 40px 0;">
-            <h3>Perception and Human–Machine Sensing Interfaces</h3>
+            <h3>Perception & Human–Machine Sensing Interfaces</h3>
             <p style="font-size: 1em; color: #666; margin-bottom: 15px;"> My work focuses on the design, implementation, and integration of beyond-RGB imaging and vision-based sensing systems, enabled by advanced optical materials and compact photonic architectures for robotic and embedded platforms.</p>
             
             <h4>Highlighted Work and Focus Areas</h4>
