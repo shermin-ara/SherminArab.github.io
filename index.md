@@ -139,7 +139,7 @@ title: Shermin Arab
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
     
     <div class="publication-item">
-        <strong>Ophthalmic lens implanted, in-conspicuous passive integrated circuit for wearable electronics applications</strong><br>
+        <strong>Ophthalmic Lens Implanted, In-conspicuous Passive Integrated Circuit for Wearable Electronics Applications</strong><br>
         <em> US20260029663A1, 2026 </em>
     </div> 
     <div class="publication-item">
@@ -159,7 +159,7 @@ title: Shermin Arab
         <em> WO2025085145A1, 2024</em>
     </div>
     <div class="publication-item">
-        <strong>Optical frequency comb generation in silicon by recursive electro-optic modulation</strong><br>
+        <strong>Optical Frequency Comb Generation in Silicon by Recursive Electro-optic Modulation</strong><br>
         <em> CLEO,2020</em>
     </div>
     
@@ -169,7 +169,7 @@ title: Shermin Arab
     </div>
     
     <div class="publication-item">
-        <strong>Doping concentration dependence of the photoluminescence spectra of n-type GaAs nanowires</strong><br>
+        <strong>Doping Concentration Dependence of the Photoluminescence Spectra of n-type GaAs Nanowires</strong><br>
         <em>Applied Physics Letters, 2016</em>
     </div>
     
