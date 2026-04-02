@@ -139,10 +139,25 @@ title: Shermin Arab
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
     
     <div class="publication-item">
+        <strong>Ophthalmic lens implanted, in-conspicuous passive integrated circuit for wearable electronics applications</strong><br>
+        <em> US20260029663A1, 2026 </em>
+    </div> 
+    <div class="publication-item">
         <strong>The Evolution and Future of XR Display Technologies</strong><br>
         <em>Keynote Presentations, TechNExt 2025 Festival Immersive Hub, UK, 2025</em>
     </div>
-
+     <div class="publication-item">
+        <strong>Single Node Fabrication of Monolithic Eye-piece for Wearable Electronics and AR/Smart Glass</strong><br>
+        <em> Patent pending, 2025</em>
+    </div>
+    <div class="publication-item">
+        <strong>Hermetically-covered Photonic Integrated Circuit (PIC) on a Substrate Having an Integrated Laser Diode</strong><br>
+        <em> US20240295690A1, 2024</em>
+    </div>
+     <div class="publication-item">
+        <strong>3D Printing to Form an Optical Lens with Integrated Electronics</strong><br>
+        <em> WO2025085145A1, 2024</em>
+    </div>
     <div class="publication-item">
         <strong>Optical frequency comb generation in silicon by recursive electro-optic modulation</strong><br>
         <em> CLEO,2020</em>
@@ -161,19 +176,6 @@ title: Shermin Arab
     <div class="publication-item">
         <strong>Effects of Surface Passivation on Twin-Free GaAs Nanosheets</strong><br>
         <em>ACS Nano, 2015</em>
-    </div>
-
-      <div class="publication-item">
-        <strong>Single Node Fabrication of Monolithic Eye-piece for Wearable Electronics and AR/Smart Glass</strong><br>
-        <em> Patent pending, 2025</em>
-    </div>
-    <div class="publication-item">
-        <strong>Hermetically-covered Photonic Integrated Circuit (PIC) on a Substrate Having an Integrated Laser Diode</strong><br>
-        <em> US20240295690A1, 2024</em>
-    </div>
-     <div class="publication-item">
-        <strong>3D Printing to Form an Optical Lens with Integrated Electronics</strong><br>
-        <em> WO2025085145A1, 2024</em>
     </div>
 </div>
 
