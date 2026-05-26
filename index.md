@@ -137,6 +137,11 @@ title: Shermin Arab
 <div class="content-section">
     <h2>Selected Publications, Talks and Patents</h2>
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
+
+    <div class="publication-item">
+        <strong>Navigating Integration Complexity and Foundry Realities for Non-native Materials on Silicon Photonics Platforms</strong><br>
+        <em> Invited Talk, IEEE Photonics Society Summer Topicals, 2026 </em>
+    </div> 
     
     <div class="publication-item">
         <strong>Ophthalmic Lens Implanted, In-conspicuous Passive Integrated Circuit for Wearable Electronics Applications</strong><br>
