@@ -139,6 +139,11 @@ title: Shermin Arab
     <p style="margin-bottom: 20px;">For a complete list of publications and citations, please visit my <a href="https://scholar.google.com/citations?user=eQia-IIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
 
     <div class="publication-item">
+        <strong> Optical computing paradigm: Novel Material Platforms for Integrated Optical Stack </strong><br>
+        <em> Symposium Organizer, MRS Spring Meeting, 2027 </em>
+    </div>
+    
+    <div class="publication-item">
         <strong>Navigating Integration Complexity and Foundry Realities for Non-native Materials on Silicon Photonics Platforms</strong><br>
         <em> Invited Talk, IEEE Photonics Society Summer Topicals, 2026 </em>
     </div> 
