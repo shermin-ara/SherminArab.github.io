@@ -149,6 +149,11 @@ title: Shermin Arab
     </div> 
     
     <div class="publication-item">
+        <strong> Bioinspired Adaptive Foveated Imaging System for Real-time Robotics Atention and Perception</strong><br>
+        <em> Provisional Patent, 2026 </em>
+    </div>
+    
+    <div class="publication-item">
         <strong>Ophthalmic Lens Implanted, In-conspicuous Passive Integrated Circuit for Wearable Electronics Applications</strong><br>
         <em> US20260029663A1, 2026 </em>
     </div> 
