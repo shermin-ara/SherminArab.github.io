@@ -163,7 +163,7 @@ title: Shermin Arab
     </div>
      <div class="publication-item">
         <strong>Single Node Fabrication of Monolithic Eye-piece for Wearable Electronics and AR/Smart Glass</strong><br>
-        <em> Patent pending, 2025</em>
+        <em> US20260110908A, 2026 </em>
     </div>
     <div class="publication-item">
         <strong>Hermetically-covered Photonic Integrated Circuit (PIC) on a Substrate Having an Integrated Laser Diode</strong><br>
