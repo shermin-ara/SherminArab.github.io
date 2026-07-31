@@ -144,11 +144,6 @@ title: Shermin Arab
     </div>
     
     <div class="publication-item">
-        <strong>Navigating Integration Complexity and Foundry Realities for Non-native Materials on Silicon Photonics Platforms</strong><br>
-        <em> Invited Talk, IEEE Photonics Society Summer Topicals, 2026 </em>
-    </div> 
-    
-    <div class="publication-item">
         <strong> Bioinspired Adaptive Foveated Imaging System for Real-time Robotics Atention and Perception</strong><br>
         <em> Provisional Patent, 2026 </em>
     </div>
@@ -226,7 +221,7 @@ title: Shermin Arab
     <h2>Professional Background</h2>
     
     <div class="timeline-item">
-        <div class="timeline-date">2025 – Present</div>
+        <div class="timeline-date">2025 – 2026</div>
         <div class="timeline-title">Senior Manager, Hardware Technology Lead</div>
         <div class="timeline-company">Samsung Electronics, CA</div>
        
