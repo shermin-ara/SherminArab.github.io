@@ -219,6 +219,12 @@ title: Shermin Arab
 
 <div class="content-section">
     <h2>Professional Background</h2>
+
+    <div class="timeline-item">
+    <div class="timeline-date">2026 – now </div>
+    <div class="timeline-title"> System Architect</div>
+    <div class="timeline-company"> Apple, CA</div>
+   </div>
     
     <div class="timeline-item">
         <div class="timeline-date">2025 – 2026</div>
