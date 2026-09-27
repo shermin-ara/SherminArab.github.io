@@ -222,7 +222,7 @@ title: Shermin Arab
 
     <div class="timeline-item">
     <div class="timeline-date">2026 – now </div>
-    <div class="timeline-title"> System Architect</div>
+    <div class="timeline-title"> System Architect, Vision Group</div>
     <div class="timeline-company"> Apple, CA</div>
    </div>
     
